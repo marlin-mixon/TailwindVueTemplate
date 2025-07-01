@@ -5,3 +5,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
 
 Once expanded in your development directory, just run: npm install
+
+And once that is complete, just do: npm run dev and then open a browser to see the result at http://localhost:5173.
